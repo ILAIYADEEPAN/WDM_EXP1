@@ -104,10 +104,12 @@ WEATHER
 
 ### OUTPUT:
 EMPLOYEE
-<img width="1919" height="1079" alt="Weather report " src="https://github.com/user-attachments/assets/a7ad931d-edea-40af-a035-636daf2fa42a" />
+<img width="1919" height="1078" alt="Del" src="https://github.com/user-attachments/assets/01244c3d-fe5a-41fd-ab2f-4f3c66e83e0d" />
+
 
 WEATHER
-<img width="1919" height="1079" alt="Weather report " src="https://github.com/user-attachments/assets/9d149c89-5b9d-4ab7-8f02-0124e8164e92" />
+<img width="1917" height="1079" alt="rem " src="https://github.com/user-attachments/assets/cda8c8df-d429-496d-8cd7-4f65bd075ec5" />
+
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -126,10 +128,12 @@ WEATHER
 
 ### OUTPUT:
 EMPLOYEE
-<img width="1919" height="1078" alt="Norm" src="https://github.com/user-attachments/assets/715ed53a-01d2-41f3-9a2d-f6a3b31f2ba1" />
+<img width="1919" height="1078" alt="Norm" src="https://github.com/user-attachments/assets/390e5123-1549-4327-9b6e-2ad56e882332" />
+
 
 WEATHER
-<img width="1919" height="1079" alt="Weather report " src="https://github.com/user-attachments/assets/6344aeaf-1717-4b2e-ab9c-6e4ecf929e0b" />
+<img width="1917" height="1079" alt="rem " src="https://github.com/user-attachments/assets/1b9ddab4-5fff-434c-95ba-96ea5ab8e80b" />
+
 
 
 
